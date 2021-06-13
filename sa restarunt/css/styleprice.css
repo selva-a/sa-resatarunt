@@ -1,0 +1,22 @@
+h1,p,.red,ul,li{
+    font-size: 35px ;
+    color: rgb(0, 0, 0);     
+}
+.box{
+    display: flex;
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    margin: auto;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+     
+}
+        
+h1{
+font-size: 45px;
+}
+body{
+    background-color: rgb(216, 202, 202);
+}
